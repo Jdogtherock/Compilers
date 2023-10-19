@@ -1,0 +1,1 @@
+add_llvm_library(jtg2595-LoopAnalysis MODULE LoopProps.cpp)
